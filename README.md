@@ -220,7 +220,3 @@
 
 ---
 
-**Name & Signature**
-
-External Guide: [Name]
-Internal Guide: [Name]
